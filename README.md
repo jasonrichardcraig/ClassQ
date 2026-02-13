@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="assets/logo/classq-logo.png" alt="Class Q Logo" width="320">
+</p>
+
+<p align="center">
+  <strong>Class Q — The Open Standard for 1‑Bit Audio and GaN PowerDAC Architecture</strong>
+</p>
+
 # ClassQ
 The official open standard for Class Q — a 1‑bit GaN PowerDAC architecture and unified audio ecosystem spanning file formats, transport, DSP, timecode, broadcast, and power conversion.
 
